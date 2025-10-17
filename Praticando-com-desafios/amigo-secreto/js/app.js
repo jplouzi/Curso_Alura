@@ -37,6 +37,7 @@ function sortear() {
         alert("Adicione pelo menos quatro amigos para realizar o sorteio!");
         return;
     }
+  
     // Embaralha a lista de amigos
     embaralha(amigos);
     // Exibe a lista de sorteio
