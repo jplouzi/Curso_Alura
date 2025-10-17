@@ -41,7 +41,6 @@ function sortearNumeroAleatorio(min, max){
 
 function alterarStatusBotao(){
     let botaoReiniciar = document.getElementById("btn-reiniciar");
-    
     if(botaoReiniciar.classList.contains("container__botao-desabilitado")){
         botaoReiniciar.classList.remove("container__botao-desabilitado");
         botaoReiniciar.classList.add("container__botao");
