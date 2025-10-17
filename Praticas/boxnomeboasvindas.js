@@ -1,3 +1,4 @@
+// Solicita o nome do usuário
 let nome = prompt("Qual é o seu nome?");
 
 alert('Olá, ' + nome + '! Seja bem-vindo(a) ao nosso site!');
