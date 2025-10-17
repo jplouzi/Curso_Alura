@@ -8,3 +8,6 @@ function fatorial(numero){
     return resultado;
 
 }
+//exemplo de uso
+console.log(fatorial(5)); // 120
+console.log(fatorial(0)); // 1  

@@ -13,3 +13,8 @@ function perimetro(raio){
 function exibirNaTela(areaCirculo, perimetroCirculo){
     alert(`Circulo com ${areaCirculo}m² e ${perimetroCirculo}m`);
 }
+// exemplo de uso
+const raio = 3; // em metros
+const areaCirculo = area(raio);
+const perimetroCirculo = perimetro(raio);
+exibirNaTela(areaCirculo, perimetroCirculo);

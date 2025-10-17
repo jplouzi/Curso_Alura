@@ -6,3 +6,6 @@ function tabuada(numero){
     }
 
 }
+//exemplo de uso
+tabuada(5); // Tabuada do 5
+tabuada(8); // Tabuada do 8
